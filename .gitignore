@@ -8,3 +8,5 @@ node_modules
 
 # The awesome-design-md repo is a reference collection, not part of the site
 awesome-design-md/
+
+.vercel

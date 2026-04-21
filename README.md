@@ -30,9 +30,8 @@ Ferrari-inspired editorial: chiaroscuro black/white sections, Ferrari Red `#DA29
 2. **Swap domain** — canonical URLs, JSON-LD `@id`, OG URLs, and `sitemap.xml` all reference `https://oyamaservices.ca/`. Search and replace once the real domain is chosen.
 3. **Wire the contact form** — in `contact.html`, replace `YOUR_FORM_ID` with the real Formspree form ID from https://formspree.io.
 4. **Verify hours** — currently showing `Mon–Fri 8am–5pm · By appointment`.
-5. **Add real reviews** — home page reviews are illustrative; swap for real Google/Facebook testimonials.
-6. **Owner portrait + name** — placeholder on `about.html`.
-7. **Submit sitemap** to Google Search Console after deploy.
+5. **Owner portrait + name** — placeholder on `about.html`.
+6. **Submit sitemap** to Google Search Console after deploy.
 
 ## Development
 
